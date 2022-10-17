@@ -397,8 +397,8 @@ nav {
 .portfolio-list li {
     padding-bottom: 20px;
     border:1px solid var(--color-border);
-    width: 370px;
-    height: 404px;
+    max-width: 370px;
+    max-height: 404px;
 }
 .portfolio-list li:hover,
 .portfolio-list li:focus {
