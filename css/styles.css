@@ -100,7 +100,7 @@ display: flex;
     margin-left: 70px;
     padding-top: 10px;
 }
-.footer-socials span {
+.footer-socials>span {
     font-family: var(--ff-roboto);
     font-weight: var(--font-weight-heading);
     font-size: 14px;
