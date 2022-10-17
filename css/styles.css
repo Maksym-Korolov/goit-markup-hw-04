@@ -100,9 +100,12 @@ display: flex;
     margin-left: 70px;
     padding-top: 10px;
 }
-.footer-socials h2 {
+.footer-socials span {
+    font-family: var(--ff-roboto);
+    font-weight: var(--font-weight-heading);
     font-size: 14px;
     line-height: 1.1721;
+    letter-spacing: 0.03em;
     color: var(--color-white);
     text-transform: uppercase;
     margin-bottom: 20px;
